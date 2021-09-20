@@ -1,0 +1,46 @@
+#website_header {
+color: rgb(0, 0, 0);
+font-size: 30px;
+font-weight: bold;
+text-align: center;
+background-color: rgb(196, 124, 151);
+padding: 10px;
+}
+.website_header {
+color: rgb(0, 0, 0);
+font-size: 25px;
+font-weight: bold;
+padding-top: 15px;
+} 
+#wrap {
+font-size: 23px;
+font-weight: bold;
+width: 850px;
+color:rgb(146, 160, 241);
+margin: 30px;
+}
+#footer {
+background-color: rgb(119, 155, 233);
+}
+#footer {
+clear: both;
+height: 25px;
+padding-bottom: 0px;
+margin-bottom: 0px;;
+
+}
+img{
+border: solid black;
+float:right;
+}
+#body {
+    background-color: rgb(60, 129, 148);
+}
+label{
+    display: block;
+}
+label input{
+    display: block;
+}
+<form Action="/your_page.html">
+<div class=
